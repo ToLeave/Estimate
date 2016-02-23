@@ -1,0 +1,34 @@
+﻿<Window x:Class="Estimate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="计量管理系统" Height="350" Width="525">
+    <Grid>
+        <Menu Height="23" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Top">
+            <MenuItem Header="系统">
+                <MenuItem Header="更改口令"></MenuItem>
+                <Separator />
+                <MenuItem Header="退出"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="业务">
+                <MenuItem Header="过磅单"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="报表">
+                <MenuItem Header="过磅单查询"></MenuItem>
+                <MenuItem Header="榜单汇总查询"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="字典">
+                <MenuItem Header="物料字典"></MenuItem>
+                <MenuItem Header="单位字典"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="设置">
+                <MenuItem Header="参数设置"></MenuItem>
+                <MenuItem Header="仪表设置"></MenuItem>
+                <MenuItem Header="磅房设置"></MenuItem>
+                <Separator />
+                <MenuItem Header="用户设置"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="帮助"></MenuItem>
+        </Menu>
+        
+    </Grid>
+</Window>

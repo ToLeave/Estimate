@@ -1,0 +1,11 @@
+D:\工作\Estimate\Estimate\Estimate\bin\Debug\Estimate.exe
+D:\工作\Estimate\Estimate\Estimate\bin\Debug\Estimate.pdb
+D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\MainWindow.baml
+D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\MainWindow.g.cs
+D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\App.g.cs
+D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\Estimate_MarkupCompile.cache
+D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\Estimate.g.resources
+D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\Estimate.Properties.Resources.resources
+D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\Estimate.csproj.GenerateResource.Cache
+D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\Estimate.exe
+D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\Estimate.pdb
