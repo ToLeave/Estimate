@@ -9,3 +9,5 @@ D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\Estimate.Properties.Resources
 D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\Estimate.csproj.GenerateResource.Cache
 D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\Estimate.exe
 D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\Estimate.pdb
+D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\Weigh.baml
+D:\工作\Estimate\Estimate\Estimate\obj\x86\Debug\Weigh.g.cs
