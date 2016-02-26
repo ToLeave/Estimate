@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace Estimate
 {
     /// <summary>
-    /// Weigh.xaml 的交互逻辑
+    /// User_Settingsxaml.xaml 的交互逻辑
     /// </summary>
-    public partial class Weigh : UserControl
+    public partial class User_Settingsxaml : UserControl
     {
-        public Weigh()
+        public User_Settingsxaml()
         {
             InitializeComponent();
         }
